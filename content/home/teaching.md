@@ -1,6 +1,8 @@
 ### Teaching
 
 ### Behavioural Environmental Economics
+Bachelor Seminar, Summer Semester 2024 
+University of Munich, Germany
 
 Bachelor Seminar, Winter Semester 2023 
 University of Munich, Germany
