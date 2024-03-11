@@ -6,7 +6,7 @@ The platform is developed in collaboration with the [Lindau Nobel Laureate Meeti
 
 ### Equality of opportunities
 
-As the elected equal opportunities officer for the MPI for Tax Law and Public Finance, I spend some of my time advocating for and handling issues of inclusivity in science and academia. You can find out more about the initiatives of the Max Planck Society [here](https://www.mpg.de/equal_opportunities). If you would like to get in touch, please write to raisa.sherif@tax.mpg.de. 
+As the elected equal opportunities officer for the MPI for Tax Law and Public Finance, I spend some of my time advocating for and handling issues of inclusivity in science and academia. If you would like to get in touch, please write to raisa.sherif@tax.mpg.de. 
 
 ### Podcast
 
@@ -23,5 +23,5 @@ I co-host the [Max Planck Economics Podcast](http://www.tax.mpg.de/en/news/podca
 
 ### Press 
 
-My friend [Arun Sudarsan](https://arunsudarsan.in/) and I wrote a three part series for the newspaper Malayala Manorama. If you read Malayalam you can find them [here](https://www.manoramaonline.com/global-malayali/us/2020/10/28/fake-news-and-its-effects-in-election.html), [here](https://www.manoramaonline.com/global-malayali/us/2020/10/18/protest-and-us-election.html), and [here](https://www.manoramaonline.com/global-malayali/us/2020/10/13/us-election-october-surprise.html).
+My friend [Arun Sudarsan](https://arunsudarsan.in/) and I wrote a three-part series for the newspaper Malayala Manorama. If you read Malayalam you can find them [here](https://www.manoramaonline.com/global-malayali/us/2020/10/28/fake-news-and-its-effects-in-election.html), [here](https://www.manoramaonline.com/global-malayali/us/2020/10/18/protest-and-us-election.html), and [here](https://www.manoramaonline.com/global-malayali/us/2020/10/13/us-election-october-surprise.html).
 
