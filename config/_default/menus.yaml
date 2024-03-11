@@ -13,15 +13,12 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 30
-  - name: Mentoring
+  - name: Non-scientific
     url: '#zothers'
     weight: 40
-  - name: Media
-    url: '#zothers'
-    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
