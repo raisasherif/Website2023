@@ -1,13 +1,15 @@
 
 ### Working Papers
 
-#### [Is there a Trade-off between Efficiency and Visibility in Pro-environmental Behaviours?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672097)
+#### Impact, Inspire, or Image: On the Trade-Offs Between Efficient and Visible Pro-Environmental Behaviors
+[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672097)
 (with [Sven Simon](https://www.tax.mpg.de/en/public_economics/public_economics_people/sven_arne_simon.html))
 
 Today’s environmental challenges prompt many individuals to take personal actions to address them. Those intrinsically concerned about the environment should focus on maximizing the impact of their actions. Yet, it is observed that individuals often engage in pro-environment behaviors (PEBs) that are relatively inefficient in terms of their cost-benefit ratio. We examine if this is because individuals trade off efficient PEBs for inefficient, but visible ones. We conduct a representative online experiment in Germany to investigate this trade-off between efficient and visible PEBs, using contributions to carbon-offset initiatives. Our findings reveal three key insights: First, when considered independently, individuals display a preference for efficient PEBs. Second, in scenarios where efficiency and visibility dimensions are in conflict, visible PEBs crowd out efficient alternatives, indicating a willingness among respondents to prioritize being seen as green over environmental impact. Finally, we disentangle two motivations driving this preference for visible actions: social image concerns (a self-oriented motive) and role model aspirations. Notably, the latter motivation exerts a stronger influence, leading individuals more frequently to choose visible PEBs over efficient ones.
 
 
-#### [Are pro-environment behaviours substitutes or complements? Evidence from the field](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799970)
+#### Are pro-environment behaviours substitutes or complements? Evidence from the field
+[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799970)
 
 <!---
 [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799970) (Submitted)
