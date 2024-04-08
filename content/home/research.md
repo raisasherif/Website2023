@@ -23,9 +23,9 @@ This paper uses a ﬁeld experiment among adolescents in India to study how an i
 
 ### Work in progress
 
-#### Transmission of Pro-Environmental Attitudes and Behaviors Across Generations
+#### Intergenerational Transmission of Pro-Environmental Attitudes and Behaviors
 (with Shubhro Bhattacharya, Sara Constantino, Nirajana Mishra, Nishith Prakash, Shwetlena Sabarwal and  Dighbijoy Samaddar)
-[AEA Pre-registration](https://doi.org/10.1257/rct.13240-1.0)
+[AEA RCT Registry](https://doi.org/10.1257/rct.13240-1.0)
 
 This study examines the effect of educational interventions on improving pro-environmental attitudes and behaviours within family units in Patna, Bihar. We implement a Randomized Controlled Trial across 4,000 households to analyze the ``spillover'' effects between children and their parents. We employ four treatment arms: Student-Only, Parent-Only, Combined Student and Parent, and a Control Group, to evaluate the impact of a custom-designed pro-environmental curriculum on both direct recipients and their household counterparts.
 
@@ -50,7 +50,7 @@ Despite progress in addressing barriers to human capital in the last two decades
 Grant: J-PAL, 98,000 USD
 
 #### Sorting it out: Waste Management in Urban India
-(with Ahana Basistha,, [Nishith Prakash](https://nishithprakash.com/))
+(with Ahana Basistha, [Nishith Prakash](https://nishithprakash.com/))
 
 Poor urban waste management has severe negative effects on health and economic outcomes. We conduct a randomized control trial among households in the Patna Municipal Corporation in Bihar, India to measure the effect of messaging interventions on waste segregation behaviour. Our findings indicate that interventions increased the experimentally elicited willingness to pay for waste segregation by 6-8 percentage points. However, they did not significantly alter the day-to-day waste segregation habits of the respondents.
 
