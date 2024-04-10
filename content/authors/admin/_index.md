@@ -73,5 +73,6 @@ I am a Post-doctoral Fellow at the Department of Public Economics at the [Max Pl
 
 My research focuses on understanding pro-environmental behaviours and the effectiveness of policy interventions targeted at them. I study these topics using insights from behavioural economics and combining experimental methods like ﬁeld, lab-in-the-ﬁeld, and online survey experiments. 
 
+Please find my CV [here](static/uploads/Raisa_Sherif_CV_2024.pdf)
 
 
