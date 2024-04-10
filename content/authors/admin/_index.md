@@ -11,7 +11,7 @@ last_name: Sherif
 superuser: true
 
 # Role/position/tagline
-# role: Professor of Artificial Intelligence
+# role: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -23,8 +23,8 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Environmental economics
-- Behavioural economics
+- Environmental Economics
+- Behavioural Economics
 - Development 
 
 # Education to show in About widget
@@ -69,7 +69,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a Post-doc at the Department of Public Economics at the [Max Planck Institute for Tax Law and Public Finance](https://www.tax.mpg.de/en/) in Munich. I completed my PhD in 2021 from the University of Munich and the Munich Graduate School of Economics. I received my undergraduate degree from the Indian Institute of Technology - Madras, India. 
+I am a Post-doctoral Fellow at the Department of Public Economics at the [Max Planck Institute for Tax Law and Public Finance](https://www.tax.mpg.de/en/) in Munich. I completed my PhD from the University of Munich and an undergraduate degree from the Indian Institute of Technology - Madras. I am also an invited researcher at J-PAL.
 
-The goal of my research is to better understand pro-environmental behaviours and policy interventions targeted at encouraging individuals to engage in them. I study these topics by employing insights from behavioural economics and combining experimental methods like ﬁeld, lab-in-the-ﬁeld, and online survey experiments.
+My research focuses on understanding pro-environmental behaviours and the effectiveness of policy interventions targeted at them. I study these topics using insights from behavioural economics and combining experimental methods like ﬁeld, lab-in-the-ﬁeld, and online survey experiments. 
+
+
 
