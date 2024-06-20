@@ -29,7 +29,6 @@ This paper uses a ﬁeld experiment among adolescents in India to study how an i
 
 This study examines the effect of educational interventions on improving pro-environmental attitudes and behaviours within family units in Patna, Bihar. We implement a Randomized Controlled Trial across 4,000 households to analyze the ``spillover'' effects between children and their parents. We employ four treatment arms: Student-Only, Parent-Only, Combined Student and Parent, and a Control Group, to evaluate the impact of a custom-designed pro-environmental curriculum on both direct recipients and their household counterparts.
 
-Grant: The World Bank, 85,000 USD
 
 #### Wins and losses in collective actions. 
 (with Biljana Meiske) [AEA RCT Registry](https://www.socialscienceregistry.org/trials/7474) 
@@ -47,7 +46,6 @@ Information campaigns that aim to encourage pro-environment activities are a wid
 
 Despite progress in addressing barriers to human capital in the last two decades, significant learning gaps persist. A new line of research suggests that holistic skills have been associated with positive impacts on later life outcomes. However, there is little evidence supporting the effectiveness of existing traditional classroom-based instructional strategies in improving non-cognitive and socio-emotional skills. In this study, we conduct a randomized control trial in 100schools in Uttarakhand, India to estimate the causal impacts of an experiential learning pedagogy in secondary schools. The curriculum consists of a total of 36 hours of arts and theater-based instruction spread over 24 weekly sessions. We will measure the impacts on cognitive skills (critical thinking and learning), social skills (class participation, network formation, communication skills, pro-sociality), and emotional skills (stress, anxiety, self-care, self-esteem).
 
-Grant: J-PAL, 98,000 USD
 
 #### Sorting it out: Waste Management in Urban India
 (with Ahana Basistha, [Nishith Prakash](https://nishithprakash.com/))
